@@ -18,7 +18,7 @@
 - Model Transparency: This Linear Regression model’s behavior can be analyzed through the coefficient values that were graphed via a bar chart.
 
 ## ***Completed Code/Project Link (Kaggle)*** 
-**Kaggle Code/Project Link:** *https://www.kaggle.com/code/jackmnob/*  
+**Kaggle Code/Project Link:** *https://www.kaggle.com/code/jackmnob/automotivempg*
 
 ## ***Original Dataset Link (Kaggle)***  
 **Kaggle Link:** *https://www.kaggle.com/datasets/uciml/autompg-dataset*
