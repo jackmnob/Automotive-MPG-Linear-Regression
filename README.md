@@ -13,8 +13,8 @@
 5. **Visualization** - Visualized our model's performance by graphing residual values with scatterplots.
 
 ## ***Model Insights***  
-- Performance Metrics: Our model demonstrates good accuracy in predicting continouous MPG values for these vehicles, which provides insight into the precision and recall for each species.
-- Residual Graphs: Accuracy of the model was shown through residual grpahing where predicted values were plotted against their actual value counterparts, helping to assess model accuracy.
+- Performance Metrics: Our model demonstrates good accuracy in predicting continuous MPG values for these vehicles, which provides insight into the precision and recall for each species.
+- Residual Graphs: Accuracy of the model was shown through residual graphing where predicted values were plotted against their actual value counterparts, helping to assess model accuracy.
 - Model Transparency: This Linear Regression model’s behavior can be analyzed through the coefficient values that were graphed via a bar chart.
 
 ## ***Completed Code/Project Link (Kaggle)*** 
