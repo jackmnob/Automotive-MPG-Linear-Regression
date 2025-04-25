@@ -8,7 +8,7 @@
 ## ***Project Workflow***
 1. **Data Collection** - The Auto-mpg dataset was sourced from the UCI Machine Learning Repository's Kaggle page and contains 398 unique vehicles, and their related data.
 2. **Data Cleaning & Preprocessing** - Leveraged pandas to clean the data, detect any missing values, and perform EDA prior to model implementation.
-3. **Model Development** - Built a Linear Regression model using Python's scikit-learn library to predict continouous MPG values for vehicles based on their attributes (cylinders, displacement, horsepower, weight, acceleration, model year, and origin).
+3. **Model Development** - Built a Linear Regression model using Python's scikit-learn library to predict continuous MPG values for vehicles based on their attributes (cylinders, displacement, horsepower, weight, acceleration, model year, and origin).
 4. **Model Evaluation** - Evaluated our model's performance using metrics such as R², MSE, and RMSE.
 5. **Visualization** - Visualized our model's performance by graphing residual values with scatterplots.
 
